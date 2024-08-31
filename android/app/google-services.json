@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1046184094159",
+    "project_id": "flutter-genai-demo",
+    "storage_bucket": "flutter-genai-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046184094159:android:789e332c56e6f666b28aba",
+        "android_client_info": {
+          "package_name": "com.genai.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046184094159-3nnnom2cefqh9i53qe30p7h4ppd6i5mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqYm6JNlw7m-ifBIdD5aEebb3GiWN9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046184094159-3nnnom2cefqh9i53qe30p7h4ppd6i5mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046184094159-71n5b779lcuqehbc2fqsk3utd0aauk2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geminiDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
